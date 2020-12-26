@@ -1,18 +1,25 @@
 body {
   background-color: white;
-  font-family: "Tisa Sans Pro Bold", Helvetica, Arial, sans-serif;
+  font-family: Tisa, Helvetica, Arial, sans-serif;
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Tisa Sans Pro Bold", Helvetica, Arial, sans-serif;
-  font-size: 28px;
+  color: black;
+  text-align: center;
+  font-family: Tisa, Helvetica, Arial, sans-serif;
+  font-size: 36px;
 }
 
 h2 {
-  font-family: "Tisa Sans Pro Bold", Helvetica, Arial, sans-serif;
+  font-family: Tisa, Helvetica, Arial, sans-serif;
   font-size: 20px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {
@@ -24,7 +31,7 @@ p {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 30px;
 }
 
 li {
