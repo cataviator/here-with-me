@@ -40,3 +40,15 @@ li {
   float: left;
   background-color: #E8F6F3;
 }
+
+.slider {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  overflow-x: auto;
+}
+.slide {
+  width: 300px;
+  flex-shrink: 0;
+  height: 100%;
+}
