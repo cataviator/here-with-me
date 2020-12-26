@@ -1,15 +1,23 @@
 body {
-  background-color: lightblue;
+  background-color: white;
+  font-family:
 }
 
 h1 {
   color: navy;
   margin-left: 20px;
+  font-family: "Tisa Sans Pro Bold", Helvetica, Arial, sans-serif;
+  font-size: 28px;
+}
+
+h2 {
+  font-family: "Tisa Sans Pro Bold", Helvetica, Arial, sans-serif;
+  font-size: 20px;
 }
 
 p {
-  font-family: "Andale Mono", AndaleMono, monospace;
-  font-size: 12px;
+  font-family: "Tisa Sans Pro Thin", Helvetica, Arial, sans-serif;
+  font-size: 16px;
   color: black;
 }
 
@@ -19,7 +27,7 @@ ul {
   padding: 0;
 }
 
-.menu_items {
+li {
   float: left;
   background-color: #E8F6F3;
 }
