@@ -18,3 +18,8 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.menu_items {
+  float: left;
+  background-color: #E8F6F3;
+}
