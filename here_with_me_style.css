@@ -25,30 +25,19 @@ img {
 
 p {
   font-family: "Tisa Sans Pro Thin", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   color: black;
   text-align: center;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 30px;
-}
-
-li {
-  float: left;
-  background-color: #E8F6F3;
-}
-
 .slider {
-  width: 300px;
-  height: 300px;
+  width: 600px;
+  height: 600px;
   display: flex;
   overflow-x: auto;
 }
 .slide {
-  width: 300px;
+  width: 600px;
   flex-shrink: 0;
   height: 100%;
 }
