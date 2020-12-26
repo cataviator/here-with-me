@@ -34,7 +34,7 @@ p {
   width: 600px;
   height: 600px;
   display: flex;
-  overflow-x: auto;
+  overflow: hidden;
   margin-left: auto;
   margin-right: auto;
 }
