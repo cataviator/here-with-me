@@ -10,18 +10,12 @@
   <body>
         <h1>Cataviator's Secret Diary</h1>
         <h2>Here, With Me</h2>
-        <p>Here's my first comics published online.</p>
-
 
         <div class="slide" id="slide-2">
             <img src="images/here-with-me-02.jpg" style="width:500px">
-            </div>
-        <div class="slide" id="slide-3">
-            <img src="images/here-with-me-03.jpg" style="width:500px">
-            </div>
-        <div class="slide" id="slide-4"></div>
-        <div class="slide" id="slide-5"></div>
-
+        </div>
+        <a href="index" class="previous round">&#8249;</a>
+        <a href="#" class="next round">&#8250;</a>
 
 <!---
 <div class="slider">
