@@ -30,7 +30,14 @@ p {
   text-align: center;
 }
 
-.slider {
+.comics-pages {
+  width: 600px;
+  height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+/* .slider {
   width: 600px;
   height: 600px;
   display: flex;
@@ -46,3 +53,4 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
+*/

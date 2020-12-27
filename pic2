@@ -12,15 +12,24 @@
         <h2>Here, With Me</h2>
         <p>Here's my first comics published online.</p>
 
-        <div class="comics-pages" id="slide-1">
-            <img src="images/here-with-me-01.jpg" style="width:600px">
+        <div class="slide" id="slide-1">
+            <img src="images/here-with-me-01.jpg" style="width:500px">
             </div>
-        <p>When my mom passed away this October,
-          <br>I started to see the past as a wall of fire.</p>
+        <div class="slide" id="slide-2">
+            <img src="images/here-with-me-02.jpg" style="width:500px">
+            </div>
+        <div class="slide" id="slide-3">
+            <img src="images/here-with-me-03.jpg" style="width:500px">
+            </div>
+        <div class="slide" id="slide-4"></div>
+        <div class="slide" id="slide-5"></div>
 
-<!--
+
+<!---
 <div class="slider">
-
+      <div class="slide" id="slide-1">
+          <img src="images/here-with-me-01.jpg" style="width:500px">
+          </div>
       <div class="slide" id="slide-2">
           <img src="images/here-with-me-02.jpg" style="width:500px">
           </div>
@@ -30,7 +39,7 @@
       <div class="slide" id="slide-4"></div>
       <div class="slide" id="slide-5"></div>
     </div>
--->
+ --->
     <a href="https://www.instagram.com/cataviator/">Follow me on Instagram pls :)</a>
   </body>
 </html>
