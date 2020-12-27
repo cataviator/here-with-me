@@ -39,17 +39,23 @@ a {
 
 .comics-pages {
   width: 600px;
-  height: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
 
 .text-under-the-slide {
   font-family: "Tisa Sans Pro Thin", Helvetica, Arial, sans-serif;
   font-size: 20px;
   color: black;
   text-align: center;
+}
 
+.Next, .previous {
+  font-family: "Tisa Sans Pro Thin", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: black;
+  text-align: center;
 }
 
 /* .slider {
