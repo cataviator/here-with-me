@@ -12,9 +12,7 @@
         <h2>Here, With Me</h2>
         <p>Here's my first comics published online.</p>
 
-        <div class="slide" id="slide-1">
-            <img src="images/here-with-me-01.jpg" style="width:500px">
-            </div>
+
         <div class="slide" id="slide-2">
             <img src="images/here-with-me-02.jpg" style="width:500px">
             </div>
